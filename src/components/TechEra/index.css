@@ -1,0 +1,47 @@
+.bg-container {
+  height: 100vh;
+}
+
+.nav-container {
+  background-color: #f1f5f9;
+  padding: 10px;
+}
+
+.logo {
+  height: 7vh;
+}
+
+.tech-items-container {
+  list-style-type: none;
+  padding: 0px;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  width: 50vw;
+}
+
+.tech-era-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  font-family: 'Roboto';
+}
+
+.failure-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  color: #4656a1;
+}
+
+.retry-btn {
+  background-color: #4656a1;
+  color: white;
+  border-width: 0px;
+  padding: 10px;
+  cursor: pointer;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  font-weight: bold;
+}

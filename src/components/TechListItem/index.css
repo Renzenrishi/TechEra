@@ -1,0 +1,17 @@
+.tech-list-item {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.name {
+  font-weight: bold;
+  margin-left: 10px;
+}
+
+.link-item {
+  text-decoration: none;
+  color: black;
+}
